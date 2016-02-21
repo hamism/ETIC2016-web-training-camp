@@ -25,7 +25,7 @@ for both front-end & back-end of the project with some illustrations to clarify 
 #### Step 7: Talk about the "tools" part
  Introduce the tools that we'll be using.
 
-####Tools.
+##### Tools :
 * [Sublime text 3](https://www.sublimetext.com/3) as the code editor, you can use your editor of choice but you'll probably  make us a little bit slower.
 * For server side language(PHP), web server(Apache) and Database server (MySQL) we picked :
   - [XAMPP](https://www.apachefriends.org/index.html) for linux users.
